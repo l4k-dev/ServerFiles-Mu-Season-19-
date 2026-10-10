@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <DataFolder>C:\Users\David\Desktop\L4K DEV Season 19 Package P1-1\Data</DataFolder>
+  <DbUser>root</DbUser>
+  <DbPassword>SUA_SENHA_AQUI</DbPassword>
+  <DbServerIP>127.0.0.1</DbServerIP>
+  <DbServerPort>3306</DbServerPort>
+  <LoginDbName>muonline</LoginDbName>
+  <CharDbnNme>muonline</CharDbnNme>
+</Settings>

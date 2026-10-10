@@ -1,0 +1,15 @@
+ConnectServer\connectserver.conf	-> Alterar IP e Senha do MySQL
+
+Data\game_common.conf			-> Alterar Senha MySQL
+
+Data\ServerMap.xml			-> Alterar IP
+
+LoginServer\loginserver.conf		-> Alterar Senha MySQL
+
+ServerLink\serverlink.conf		-> Alterar Senha MySQL
+
+
+BY DEV FULL STACK L4K
+
+
+
