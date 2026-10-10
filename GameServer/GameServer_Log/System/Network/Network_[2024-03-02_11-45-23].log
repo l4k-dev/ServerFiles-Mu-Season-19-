@@ -1,0 +1,5 @@
+2024-03-02_11:45:33 DEBUG Network Thread Starting
+2024-03-02_11:51:22 INFO Attempt to add new socket: 192.168.0.189
+2024-03-02_11:51:22 INFO Added new socket: 192.168.0.189 at [30000]
+2024-03-02_11:51:47 INFO Closing socket: 192.168.0.189
+2024-03-02_12:16:15 DEBUG Network Thread exits

@@ -1,0 +1,8 @@
+2024-03-02_13:24:13 INFO [ LOGIN REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.189 - ] on [tester]
+2024-03-02_13:24:13 INFO [ LOGIN REQUEST ] Success [SRV 0 -- 30000 - IP: 192.168.0.189 - Account: 10-tester - ]
+2024-03-02_13:24:16 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.189 - Account: 10-tester - ] Character testchar - 0 selected ( Step One ).
+2024-03-02_13:24:16 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.189 - Account: 10-tester - ] Character selected ( Step Two ).
+2024-03-02_13:24:16 INFO Player::EnterWorldSuccess -- [SRV 0 -- 30000 - IP: 192.168.0.189 - Account: 10-tester - Character: 78-testchar] -- Location:[0 - 134/124]
+2024-03-02_13:24:31 INFO Closing interface (lorencia_bar - 0) -- [SRV 0 -- 30000 - IP: 192.168.0.189 - Account: 10-tester - Character: 78-testchar]
+2024-03-02_13:24:52 INFO Teleport From [World:0 - 139/136 - Instance:-1] To [World:51 - 52/225 - Instance:-1] -- [SRV 0 -- 30000 - IP: 192.168.0.189 - Account: 10-tester - Character: 78-testchar]
+2024-03-02_13:25:12 INFO Closing interface (interface_moss_merchant - 0) -- [SRV 0 -- 30000 - IP: 192.168.0.189 - Account: 10-tester - Character: 78-testchar]

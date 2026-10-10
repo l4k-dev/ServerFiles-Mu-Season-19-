@@ -1,0 +1,42 @@
+2024-03-02_13:21:20 INFO Opening DatabasePool 'muonline'. Asynchronous connections: 1, synchronous connections: 2.
+2024-03-02_13:21:20 INFO MySQL client library: 5.6.29
+2024-03-02_13:21:20 INFO MySQL server ver: 5.7.44-log 
+2024-03-02_13:21:20 INFO Connected to MySQL database at 127.0.0.1
+2024-03-02_13:21:20 INFO MySQL client library: 5.6.29
+2024-03-02_13:21:20 INFO MySQL server ver: 5.7.44-log 
+2024-03-02_13:21:20 INFO Connected to MySQL database at 127.0.0.1
+2024-03-02_13:21:20 INFO MySQL client library: 5.6.29
+2024-03-02_13:21:20 INFO MySQL server ver: 5.7.44-log 
+2024-03-02_13:21:20 INFO Connected to MySQL database at 127.0.0.1
+2024-03-02_13:21:20 INFO DatabasePool 'muonline' opened successfully. 3 total connections running.
+2024-03-02_13:21:20 INFO Opening DatabasePool 'log'. Asynchronous connections: 1, synchronous connections: 2.
+2024-03-02_13:21:20 INFO MySQL client library: 5.6.29
+2024-03-02_13:21:20 INFO MySQL server ver: 5.7.44-log 
+2024-03-02_13:21:20 INFO Connected to MySQL database at 127.0.0.1
+2024-03-02_13:21:20 INFO MySQL client library: 5.6.29
+2024-03-02_13:21:20 INFO MySQL server ver: 5.7.44-log 
+2024-03-02_13:21:20 INFO Connected to MySQL database at 127.0.0.1
+2024-03-02_13:21:20 INFO MySQL client library: 5.6.29
+2024-03-02_13:21:20 INFO MySQL server ver: 5.7.44-log 
+2024-03-02_13:21:20 INFO Connected to MySQL database at 127.0.0.1
+2024-03-02_13:21:20 INFO DatabasePool 'log' opened successfully. 3 total connections running.
+2024-03-02_13:21:20 INFO Opening DatabasePool 'muonline'. Asynchronous connections: 1, synchronous connections: 2.
+2024-03-02_13:21:20 INFO MySQL client library: 5.6.29
+2024-03-02_13:21:20 INFO MySQL server ver: 5.7.44-log 
+2024-03-02_13:21:20 INFO Connected to MySQL database at 127.0.0.1
+2024-03-02_13:21:20 INFO MySQL client library: 5.6.29
+2024-03-02_13:21:20 INFO MySQL server ver: 5.7.44-log 
+2024-03-02_13:21:20 INFO Connected to MySQL database at 127.0.0.1
+2024-03-02_13:21:20 INFO MySQL client library: 5.6.29
+2024-03-02_13:21:20 INFO MySQL server ver: 5.7.44-log 
+2024-03-02_13:21:20 INFO Connected to MySQL database at 127.0.0.1
+2024-03-02_13:21:20 INFO DatabasePool 'muonline' opened successfully. 3 total connections running.
+2024-03-02_13:25:41 INFO Closing down DatabasePool 'muonline'.
+2024-03-02_13:25:41 INFO Asynchronous connections on DatabasePool 'muonline' terminated. Proceeding with synchronous connections.
+2024-03-02_13:25:41 INFO All connections on DatabasePool 'muonline' closed.
+2024-03-02_13:25:41 INFO Closing down DatabasePool 'log'.
+2024-03-02_13:25:41 INFO Asynchronous connections on DatabasePool 'log' terminated. Proceeding with synchronous connections.
+2024-03-02_13:25:41 INFO All connections on DatabasePool 'log' closed.
+2024-03-02_13:25:41 INFO Closing down DatabasePool 'muonline'.
+2024-03-02_13:25:41 INFO Asynchronous connections on DatabasePool 'muonline' terminated. Proceeding with synchronous connections.
+2024-03-02_13:25:41 INFO All connections on DatabasePool 'muonline' closed.

@@ -1,0 +1,7 @@
+2024-03-02_11:51:25 INFO [ LOGIN REQUEST ] [SRV 0 -- 30000 - IP: 192.168.0.189 - ] on [muadmins]
+2024-03-02_11:51:25 INFO [ LOGIN REQUEST ] Success [SRV 0 -- 30000 - IP: 192.168.0.189 - Account: 10-muadmins - ]
+2024-03-02_11:51:33 INFO [ CHARACTER CREATE ] [SRV 0 -- 30000 - IP: 192.168.0.189 - Account: 10-muadmins - ] Created character [muadmins] class 16
+2024-03-02_11:51:36 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.189 - Account: 10-muadmins - ] Character muadmins - 0 selected ( Step One ).
+2024-03-02_11:51:36 INFO [ CHARACTER SELECT ] [SRV 0 -- 30000 - IP: 192.168.0.189 - Account: 10-muadmins - ] Character selected ( Step Two ).
+2024-03-02_11:51:36 INFO Player::EnterWorldSuccess -- [SRV 0 -- 30000 - IP: 192.168.0.189 - Account: 10-muadmins - Character: 78-muadmins] -- Location:[0 - 135/133]
+2024-03-02_11:51:42 INFO Closing interface (interface_quest_support_giver - 0) -- [SRV 0 -- 30000 - IP: 192.168.0.189 - Account: 10-muadmins - Character: 78-muadmins]

@@ -1,0 +1,734 @@
+2024-03-02_13:21:20 INFO ========================================================
+2024-03-02_13:21:20 INFO ========================================================
+2024-03-02_13:21:20 INFO >>>>>>>>>>>>>>>>>>>>> GAME SERVER <<<<<<<<<<<<<<<<<<<<<<
+2024-03-02_13:21:20 INFO ========================================================
+2024-03-02_13:21:20 INFO ========================================================
+2024-03-02_13:21:20 INFO Process priority class set to HIGH
+2024-03-02_13:21:20 INFO Starting DB...
+2024-03-02_13:21:20 INFO Loading Common Settings...
+2024-03-02_13:21:20 INFO Common Settings loaded in 29 msec...
+2024-03-02_13:21:20 INFO Loading Commands...
+2024-03-02_13:21:20 INFO Loading System Messages...
+2024-03-02_13:21:20 ERROR ../Data/Lang/English.xml file load fail (Error parsing element attribute)
+2024-03-02_13:21:20 INFO >> Loaded 781 system messages
+2024-03-02_13:21:20 INFO  
+2024-03-02_13:21:20 INFO Loading Regex Manager...
+2024-03-02_13:21:20 INFO Loading Formula Data...
+2024-03-02_13:21:20 INFO >> Loaded 905 formula data definitions
+2024-03-02_13:21:20 INFO  
+2024-03-02_13:21:20 INFO Loading Worlds...
+2024-03-02_13:21:20 INFO >> Loaded 126 worlds
+2024-03-02_13:21:20 INFO  
+2024-03-02_13:21:20 INFO Loading World AI Path...
+2024-03-02_13:21:20 INFO >> Loaded 1049 world path definitions
+2024-03-02_13:21:21 INFO  
+2024-03-02_13:21:21 INFO Loading World Buff...
+2024-03-02_13:21:21 INFO >> Loaded 0 world buff definitions
+2024-03-02_13:21:21 INFO  
+2024-03-02_13:21:21 INFO Loading World Area Restriction...
+2024-03-02_13:21:21 INFO >> Loaded 12 world area restriction definitions
+2024-03-02_13:21:21 INFO  
+2024-03-02_13:21:21 INFO Loading World Server...
+2024-03-02_13:21:21 INFO >> Loaded 63 world server definitions
+2024-03-02_13:21:21 INFO  
+2024-03-02_13:21:21 INFO Loading World Attribute...
+2024-03-02_13:21:21 INFO >> Loaded 0 world attribute definitions
+2024-03-02_13:21:21 INFO  
+2024-03-02_13:21:21 INFO Loading World Experience...
+2024-03-02_13:21:21 INFO >> Loaded 0 world experience definitions
+2024-03-02_13:21:21 INFO  
+2024-03-02_13:21:21 INFO Loading World Area Attribute...
+2024-03-02_13:21:21 INFO >> Loaded 47 world area attribute definitions
+2024-03-02_13:21:21 INFO  
+2024-03-02_13:21:21 INFO Loading World Free PK...
+2024-03-02_13:21:21 INFO >> Loaded 2 world free pk definitions
+2024-03-02_13:21:21 INFO  
+2024-03-02_13:21:21 INFO Loading Objects...
+2024-03-02_13:21:22 INFO >> Loaded 30100 Game Objects in 925 ms
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Artifact Options...
+2024-03-02_13:21:22 INFO >> Loaded 28 Artifact Options
+2024-03-02_13:21:22 INFO >> Loaded 34 Artifact Base Values
+2024-03-02_13:21:22 INFO Loading Artifact System...
+2024-03-02_13:21:22 INFO Loading Item Template...
+2024-03-02_13:21:22 INFO >> Loaded 3957 item definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading VoucherItemExchange Template...
+2024-03-02_13:21:22 INFO Loading Item HarmonySmeltLevel...
+2024-03-02_13:21:22 INFO Loading Item Add Option...
+2024-03-02_13:21:22 INFO >> Loaded 40 item add option definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Set Type...
+2024-03-02_13:21:22 INFO >> Loaded 1074 item set type definitions in 0 msec.
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Set Option...
+2024-03-02_13:21:22 INFO >> Loaded 292 item set option definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Harmony...
+2024-03-02_13:21:22 INFO >> Loaded 26 item harmony definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Harmony Enhancement...
+2024-03-02_13:21:22 INFO >> Loaded 44 item harmony enhancement definitions in 16 msec.
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Socket...
+2024-03-02_13:21:22 INFO >> Loaded 181 item socket definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Socket Seed...
+2024-03-02_13:21:22 INFO >> Loaded 30 item socket seed definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Socket Bonus...
+2024-03-02_13:21:22 INFO >> Loaded 40 item socket bonus definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Socket Package...
+2024-03-02_13:21:22 INFO >> Loaded 2 item socket package definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Socket Mix...
+2024-03-02_13:21:22 INFO >> Loaded 19 item socket mix definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Socket Upgrade...
+2024-03-02_13:21:22 INFO >> Loaded 80 item socket upgrade definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Socket Seed Sphere...
+2024-03-02_13:21:22 INFO >> Loaded 120 item socket seed sphere definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Transformation...
+2024-03-02_13:21:22 INFO >> Loaded 20 item transformation definitions in 0 msec.
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Drop...
+2024-03-02_13:21:22 INFO >> Loaded 1174 item drop definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Level Template...
+2024-03-02_13:21:22 INFO >> Loaded 125 item level template definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Mix Lucky Template...
+2024-03-02_13:21:22 INFO >> Loaded 123 item mix lucky definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Price Data...
+2024-03-02_13:21:22 INFO >> Loaded 0 item price data definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Stack...
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7168 - Apple. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7169 - Small Healing Potion. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7170 - Healing Potion. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7171 - Large Healing Potion. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7172 - Small Mana Potion. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7173 - Mana Potion. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7174 - Large Mana Potion. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7175 - Siege Potion. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7176 - Antidote. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7181 - Jewel of Bless. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7182 - Jewel of Soul. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7184 - Jewel of Life. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7189 - Rena. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7190 - Jewel of Creation. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7197 - Symbol of Kundun. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7199 - Jewel of Guardian. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7203 - Small SD Potion. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7204 - SD Potion. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7205 - Large SD Potion. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7206 - Small Complex Potion. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7207 - Complex Potion. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7208 - Large Complex Potion. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7209 - Gemstone. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7210 - Jewel of Harmony. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7211 - Lower refining stone. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7212 - Higher refining stone. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7214 - Jack O'Lantern Blessings. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7215 - Jack O'Lantern Wrath. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7216 - Jack O'Lantern Cry. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7217 - Jack O'Lantern Food. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7218 - Jack O'Lantern Drink. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7231 - Firecracker. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7232 - Cursed Castle Water. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7238 - Elite Healing Potion. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7239 - Elite Mana Potion. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7246 - Elixir of Strength. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7247 - Elixir of Agility. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7248 - Elixir of Health. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7249 - Elixir of Energy. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7250 - Elixir of Control. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7253 - Cherry Blossom Wine. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7254 - Cherry Blossom Rice Cake. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7255 - Cherry Blossom Flower Petal. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7256 - White Cherry Blossom Branch. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7257 - Red Cherry Blossom Branch. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7258 - Golden Cherry Blossom Branch. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7268 - Lucky Coin. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7269 - Suspicious Scrap of Paper. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7278 - Sign of Dimensions. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7301 - Elite SD Potion. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7321 - Stardust. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7322 - Kalt Stone. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7323 - Tantalos's Armor. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7324 - Burnt Murderer's Club. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7383 - Card Piece. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7392 - Bless of Light (Greater). Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7431 - Bless of Light (Low Grade). Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7432 - Bless of Light (Middle Grade). Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7445 - Special Card. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7446 - Piece of Summoning Scroll. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7458 - Elemental Powder. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7488 - Blessing of Spirit. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7510 - Steel of Heaven. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7514 - Fire Symbol. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7515 - Water Symbol. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7516 - Earth Symbol. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7517 - Wind Symbol. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7518 - Darkness Symbol. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7539 - [Bound] Bless of Light (Greater). Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7540 - [Bound] Bless of Light (Middle). Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7541 - [Bound] Bless of Light (Low Grade). Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7598 - Elena's Letter. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7600 - Life Medicine. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7601 - Mana Medicine. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7602 - Speed Medicine. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7603 - Power Medicine. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7604 - Spell Medicine. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7605 - Defense Medicine. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7606 - Fungus of Death. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7607 - Dragee of Strength. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7609 - Three Vacancy Box. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7610 - Shiny Earring Box (Left). Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7611 - Shiny Earring Box (Right). Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7612 - Power Chicken Drink. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7634 - Sculpture. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7635 - Guardian Enhanced Stone. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7636 - Elite Guardian Enhanced. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7637 - Guardian Elite Opt Change Pcs. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7638 - Guardian Elite Opt Change Seal. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7639 - Sealed Armor Sculpture. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7645 - Seal of Ghost Horses. Wrong Durability.
+2024-03-02_13:21:22 ERROR CItemMgr::LoadItemStack -- Item: 7666 - Ice Dragon Seal. Wrong Durability.
+2024-03-02_13:21:22 INFO >> Loaded 120 item stack definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Quest...
+2024-03-02_13:21:22 INFO >> Loaded 25 item quest definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Wing Values...
+2024-03-02_13:21:22 INFO >> Loaded 76 item wing values definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Reduced Drop...
+2024-03-02_13:21:22 INFO >> Loaded 22 item reduced drop definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Create Data...
+2024-03-02_13:21:22 INFO >> Loaded 44 item create data definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item FlagDB...
+2024-03-02_13:21:22 INFO >> Loaded 0 item flagdb definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Wing Graded Option...
+2024-03-02_13:21:22 INFO >> Loaded 11 item wing graded option definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Wing Socket Option...
+2024-03-02_13:21:22 INFO >> Loaded 8 item wing socket option definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Wing Socket Upgrade...
+2024-03-02_13:21:22 INFO >> Loaded 15 item wing socket upgrade definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Earring...
+2024-03-02_13:21:22 INFO >> Loaded 12 item earring definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Earring Option...
+2024-03-02_13:21:22 INFO >> Loaded 31 item earring option definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Earring Option Value...
+2024-03-02_13:21:22 INFO >> Loaded 51 item earring option value definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Earring Bonus...
+2024-03-02_13:21:22 INFO >> Loaded 6 item earring bonus definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Earring Upgrade...
+2024-03-02_13:21:22 INFO >> Loaded 15 item earring upgrade definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Mastery Bonus...
+2024-03-02_13:21:22 INFO >> Loaded 6 item mastery bonus definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Mysterious Stone...
+2024-03-02_13:21:22 INFO >> Loaded 3 item mysterious stone definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Guardian Option...
+2024-03-02_13:21:22 INFO >> Loaded 5 item guardian option definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Guardian Option Value...
+2024-03-02_13:21:22 INFO >> Loaded 15 item guardian option value definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Guardian Elite Option...
+2024-03-02_13:21:22 INFO >> Loaded 5 item guardian elite option definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO Loading Item Guardian Elite Option Value...
+2024-03-02_13:21:22 INFO >> Loaded 25 item guardian elite option value definitions
+2024-03-02_13:21:22 INFO  
+2024-03-02_13:21:22 INFO RegularSkillCalc.lua Loaded
+2024-03-02_13:21:22 INFO MasterSkillCalc_3rd.lua Loaded
+2024-03-02_13:21:22 INFO MasterSkillCalc_4th.lua Loaded
+2024-03-02_13:21:22 INFO Loading Skill Template...
+2024-03-02_13:21:23 INFO >> Loaded 925 skill definitions
+2024-03-02_13:21:23 INFO  
+2024-03-02_13:21:23 INFO Loading Skill Learn...
+2024-03-02_13:21:23 ERROR LoadSkillLearn() skill: 47
+2024-03-02_13:21:23 INFO >> Loaded 143 skill learn definitions
+2024-03-02_13:21:23 INFO  
+2024-03-02_13:21:23 INFO Loading Skill Tree...
+2024-03-02_13:21:23 INFO >> Loaded 931 skill tree
+2024-03-02_13:21:23 INFO  
+2024-03-02_13:21:23 INFO Loading Skill Special Element...
+2024-03-02_13:21:23 INFO >> Loaded 136 skill special element definitions
+2024-03-02_13:21:23 INFO  
+2024-03-02_13:21:23 INFO Loading Skill Special...
+2024-03-02_13:21:23 INFO >> Loaded 133 skill special definitions
+2024-03-02_13:21:23 INFO  
+2024-03-02_13:21:23 INFO Loading Buff Template...
+2024-03-02_13:21:23 INFO >> Loaded 404 buff definitions
+2024-03-02_13:21:23 INFO  
+2024-03-02_13:21:23 INFO Loading Skill Require...
+2024-03-02_13:21:23 ERROR LoadSkillRequire() skill: 736
+2024-03-02_13:21:23 INFO >> Loaded 29 skill require definitions
+2024-03-02_13:21:23 INFO  
+2024-03-02_13:21:23 INFO Loading Skill Tree Majestic...
+2024-03-02_13:21:23 INFO >> Loaded 2276 skill tree majestic definitions
+2024-03-02_13:21:23 INFO  
+2024-03-02_13:21:23 INFO Loading Skill Tree Majestic Stat...
+2024-03-02_13:21:23 INFO >> Loaded 112 skill tree majestic stat definitions
+2024-03-02_13:21:23 INFO  
+2024-03-02_13:21:23 INFO Loading Skill Attack Time...
+2024-03-02_13:21:23 INFO >> Loaded 898 skill attack time definitions
+2024-03-02_13:21:23 INFO  
+2024-03-02_13:21:23 INFO Loading Character Base...
+2024-03-02_13:21:23 INFO >> Loaded 14 character base definitions
+2024-03-02_13:21:23 INFO  
+2024-03-02_13:21:23 INFO Loading Character Item...
+2024-03-02_13:21:23 INFO >> Loaded 331 character item definitions
+2024-03-02_13:21:23 INFO  
+2024-03-02_13:21:23 INFO Loading Character Base Buff...
+2024-03-02_13:21:23 INFO >> Loaded 0 character base buff definitions
+2024-03-02_13:21:23 INFO  
+2024-03-02_13:21:23 INFO Loading Character Skill...
+2024-03-02_13:21:23 INFO >> Loaded 78 character skill definitions
+2024-03-02_13:21:23 INFO  
+2024-03-02_13:21:23 INFO Loading Character Experience Normal...
+2024-03-02_13:21:23 INFO >> Loaded 400 character experience normal definitions
+2024-03-02_13:21:23 INFO  
+2024-03-02_13:21:23 INFO Loading Character Experience Master...
+2024-03-02_13:21:23 INFO >> Loaded 400 character experience master definitions
+2024-03-02_13:21:23 INFO  
+2024-03-02_13:21:23 INFO Loading Character Experience Majestic...
+2024-03-02_13:21:23 INFO >> Loaded 798 character experience majestic definitions
+2024-03-02_13:21:23 INFO  
+2024-03-02_13:21:23 INFO Loading Character Helper...
+2024-03-02_13:21:23 INFO >> Loaded 70 character helper stages
+2024-03-02_13:21:23 INFO  
+2024-03-02_13:21:23 INFO Loading Character Formula...
+2024-03-02_13:21:23 INFO >> Loaded 280 character formula definitions in 16 msec.
+2024-03-02_13:21:23 INFO  
+2024-03-02_13:21:23 INFO Loading Character Stat Fruit...
+2024-03-02_13:21:23 INFO >> Loaded 440 character stat fruit definitions
+2024-03-02_13:21:23 INFO  
+2024-03-02_13:21:23 INFO Loading Character Specialization...
+2024-03-02_13:21:23 INFO >> Loaded 147 character specialization definitions
+2024-03-02_13:21:23 INFO  
+2024-03-02_13:21:23 INFO Loading Character Experience Adjust...
+2024-03-02_13:21:23 INFO >> Loaded 0 character experience adjust definitions
+2024-03-02_13:21:23 INFO  
+2024-03-02_13:21:23 INFO Loading Character Experience Bonus...
+2024-03-02_13:21:23 INFO >> Loaded 7 character experience bonus definitions
+2024-03-02_13:21:23 INFO  
+2024-03-02_13:21:23 INFO Loading Character Bonus...
+2024-03-02_13:21:23 INFO >> Loaded 0 character bonus definitions
+2024-03-02_13:21:23 INFO  
+2024-03-02_13:21:23 INFO Loading Character Max Level Reward...
+2024-03-02_13:21:23 INFO >> Loaded 0 character max level reward definitions
+2024-03-02_13:21:23 INFO  
+2024-03-02_13:21:23 INFO Loading Character Experience Table...
+2024-03-02_13:21:23 INFO >> Loaded 0 character experience table definitions
+2024-03-02_13:21:23 INFO  
+2024-03-02_13:21:23 INFO Loading Jewel Mix...
+2024-03-02_13:21:23 INFO >> Loaded 30 jewel mix definitions
+2024-03-02_13:21:23 INFO  
+2024-03-02_13:21:23 INFO Loading AI Scripts...
+2024-03-02_13:21:23 INFO AI Scripts loaded
+2024-03-02_13:21:23 INFO Loading Monster Template...
+2024-03-02_13:21:23 INFO >> Loaded 851 monsters definitions in 32 msec.
+2024-03-02_13:21:23 INFO  
+2024-03-02_13:21:23 INFO Loading Monster Items...
+2024-03-02_13:21:24 INFO >> Loaded monsters items in 594 msec.
+2024-03-02_13:21:24 INFO  
+2024-03-02_13:21:24 INFO Loading Monster Skill...
+2024-03-02_13:21:24 INFO >> Loaded 342 monster skill
+2024-03-02_13:21:24 INFO  
+2024-03-02_13:21:24 INFO Loading Monster Skill Special...
+2024-03-02_13:21:24 INFO >> Loaded 198 monster skill special
+2024-03-02_13:21:24 INFO  
+2024-03-02_13:21:24 INFO Loading Monster AI Element...
+2024-03-02_13:21:24 INFO >> Loaded 66 monster ai element definitions
+2024-03-02_13:21:24 INFO  
+2024-03-02_13:21:24 INFO Loading Monster AI Automata...
+2024-03-02_13:21:24 INFO >> Loaded 258 monster ai automata definitions
+2024-03-02_13:21:24 INFO  
+2024-03-02_13:21:24 INFO Loading Monster AI Unit...
+2024-03-02_13:21:24 INFO >> Loaded 54 monster ai unit definitions
+2024-03-02_13:21:24 INFO  
+2024-03-02_13:21:24 INFO Loading Monster AI Group...
+2024-03-02_13:21:24 INFO >> Loaded 84 monster ai groups
+2024-03-02_13:21:24 INFO  
+2024-03-02_13:21:24 INFO Loading Monster Respawn Location...
+2024-03-02_13:21:24 INFO >> Loaded 33 monster respawn locations
+2024-03-02_13:21:24 INFO  
+2024-03-02_13:21:24 INFO Loading Monster Equipment...
+2024-03-02_13:21:24 INFO >> Loaded 0 monster equipment definitions
+2024-03-02_13:21:24 INFO  
+2024-03-02_13:21:24 INFO Loading Monster Exclusive...
+2024-03-02_13:21:24 INFO >> Loaded 0 monster exclusive definitions
+2024-03-02_13:21:24 INFO  
+2024-03-02_13:21:24 INFO Loading Monster...
+2024-03-02_13:21:24 INFO >> Loaded 11048 monsters
+2024-03-02_13:21:24 INFO  
+2024-03-02_13:21:24 INFO Loading Monster Event...
+2024-03-02_13:21:25 INFO >> Loaded 14118 monster event definitions in 187 msec.
+2024-03-02_13:21:25 INFO  
+2024-03-02_13:21:25 INFO Loading Gate...
+2024-03-02_13:21:25 ERROR Wrong Gate Loaded :329 - World: 65
+2024-03-02_13:21:25 ERROR Wrong Gate Loaded :330 - World: 66
+2024-03-02_13:21:25 ERROR Wrong Gate Loaded :331 - World: 67
+2024-03-02_13:21:25 ERROR Wrong Gate Loaded :332 - World: 68
+2024-03-02_13:21:25 ERROR Wrong Gate Loaded :648 - World: 135
+2024-03-02_13:21:25 ERROR Wrong Gate Loaded :650 - World: 135
+2024-03-02_13:21:25 ERROR Wrong Gate Loaded :651 - World: 135
+2024-03-02_13:21:25 ERROR Wrong Gate Loaded :652 - World: 135
+2024-03-02_13:21:25 ERROR Wrong Gate Loaded :653 - World: 135
+2024-03-02_13:21:25 ERROR Wrong Gate Loaded :654 - World: 135
+2024-03-02_13:21:25 ERROR Wrong Gate Loaded :655 - World: 135
+2024-03-02_13:21:25 ERROR Wrong Gate Loaded :656 - World: 135
+2024-03-02_13:21:25 ERROR Wrong Gate Loaded :657 - World: 135
+2024-03-02_13:21:25 ERROR Wrong Gate Loaded :658 - World: 135
+2024-03-02_13:21:25 INFO >> Loaded 679 gate definitions in 15 msec.
+2024-03-02_13:21:25 INFO  
+2024-03-02_13:21:25 INFO Loading Teleport...
+2024-03-02_13:21:25 INFO >> Loaded 63 teleport definitions in 16 msec.
+2024-03-02_13:21:25 INFO  
+2024-03-02_13:21:25 INFO Loading Move Level...
+2024-03-02_13:21:25 INFO >> Loaded 57 move level definitions in 15 msec.
+2024-03-02_13:21:25 INFO  
+2024-03-02_13:21:25 INFO Loading Vip Template...
+2024-03-02_13:21:25 INFO >> Loaded 0 vip template
+2024-03-02_13:21:25 INFO  
+2024-03-02_13:21:25 INFO Loading Quest Evolution Template...
+2024-03-02_13:21:25 INFO >> Loaded 15 quest evolution definitions
+2024-03-02_13:21:25 INFO  
+2024-03-02_13:21:25 INFO Loading Quest Evolution Data...
+2024-03-02_13:21:25 INFO >> Loaded 40 quest evolution data definitions
+2024-03-02_13:21:25 INFO  
+2024-03-02_13:21:25 INFO Loading Quest Evolution Condition...
+2024-03-02_13:21:25 INFO >> Loaded 36 quest evolution condition definitions
+2024-03-02_13:21:25 INFO  
+2024-03-02_13:21:25 INFO Loading Quest Evolution Item Reward...
+2024-03-02_13:21:25 INFO >> Loaded 0 quest evolution item reward definitions
+2024-03-02_13:21:25 INFO  
+2024-03-02_13:21:25 INFO Loading Quest Guided Setting...
+2024-03-02_13:21:25 INFO Loaded 207 quest guided definitions
+2024-03-02_13:21:25 INFO  
+2024-03-02_13:21:25 INFO Loading Quest MU...
+2024-03-02_13:21:25 INFO Loaded 388 quest mu definitions
+2024-03-02_13:21:25 INFO  
+2024-03-02_13:21:25 INFO Loading Item Bag Template...
+2024-03-02_13:21:25 ERROR ../Data/Item/ItemBag/Item_(20,74,0)_Blood_Angel_Armor_Box_(3).xml file load fail (File was not found)
+2024-03-02_13:21:25 INFO >> Loaded 457 item bag definitions
+2024-03-02_13:21:25 INFO  
+2024-03-02_13:21:25 INFO Loading Gen Reward...
+2024-03-02_13:21:25 INFO >> Loaded 0 gen rewards
+2024-03-02_13:21:25 INFO  
+2024-03-02_13:21:25 INFO Loading Gen Ranking...
+2024-03-02_13:21:25 INFO >> Loaded 0 gen rankings
+2024-03-02_13:21:25 INFO  
+2024-03-02_13:21:25 INFO Loading Gen Kill Point...
+2024-03-02_13:21:25 INFO >> Loaded 0 gen kill points
+2024-03-02_13:21:25 INFO  
+2024-03-02_13:21:25 INFO Loading Event Manager...
+2024-03-02_13:21:25 INFO Loading Event Manager...
+2024-03-02_13:21:25 INFO >> Loaded 294 event manager definitions
+2024-03-02_13:21:25 INFO  
+2024-03-02_13:21:25 INFO Loading Event Season...
+2024-03-02_13:21:25 INFO >> Loaded 8 event season definitions
+2024-03-02_13:21:25 INFO  
+2024-03-02_13:21:25 INFO Loading Event Contribution Reward...
+2024-03-02_13:21:25 INFO >> Loaded 105 event contribution reward definitions
+2024-03-02_13:21:25 INFO  
+2024-03-02_13:21:25 INFO Loading Event Level...
+2024-03-02_13:21:25 INFO >> Loaded 22 event level definitions
+2024-03-02_13:21:25 INFO  
+2024-03-02_13:21:25 INFO Loading Event Enter Count...
+2024-03-02_13:21:25 INFO >> Loaded 7 event enter count definitions
+2024-03-02_13:21:25 INFO  
+2024-03-02_13:21:26 INFO Loading Blood Castle Setting...
+2024-03-02_13:21:26 INFO Blood Castle Settings Loaded
+2024-03-02_13:21:26 INFO  
+2024-03-02_13:21:26 INFO Loading Devil Square Settings...
+2024-03-02_13:21:26 INFO Devil Square Settings Loaded
+2024-03-02_13:21:26 INFO  
+2024-03-02_13:21:26 INFO Loading Devil Square Ranking...
+2024-03-02_13:21:26 INFO >> Loaded 105 devil square ranking definitions
+2024-03-02_13:21:26 INFO  
+2024-03-02_13:21:26 INFO Loading Chaos Castle Settings...
+2024-03-02_13:21:26 INFO Chaos Castle Settings Loaded
+2024-03-02_13:21:26 INFO  
+2024-03-02_13:21:26 INFO Loading Chaos Castle Survival Settings...
+2024-03-02_13:21:26 INFO Chaos Castle Survival Settings Loaded
+2024-03-02_13:21:26 INFO  
+2024-03-02_13:21:26 INFO Loading Event Manager...
+2024-03-02_13:21:26 INFO Loading Event Manager...
+2024-03-02_13:21:26 ERROR [ ITR ] (1) Sync Open Time. [379]min remain
+2024-03-02_13:21:26 ERROR [ ITR ] (2) Sync Open Time. [379]min remain
+2024-03-02_13:21:26 ERROR [ ITR ] (3) Sync Open Time. [379]min remain
+2024-03-02_13:21:26 ERROR [ ITR ] (4) Sync Open Time. [379]min remain
+2024-03-02_13:21:26 ERROR [ ITR ] (5) Sync Open Time. [379]min remain
+2024-03-02_13:21:26 ERROR [ ITR ] (6) Sync Open Time. [379]min remain
+2024-03-02_13:21:26 INFO Loading Raklion Data...
+2024-03-02_13:21:26 INFO Raklion Data Loaded
+2024-03-02_13:21:26 INFO  
+2024-03-02_13:21:26 INFO Loading Kanturu Data...
+2024-03-02_13:21:26 INFO Loading Imperial Fortress Level...
+2024-03-02_13:21:26 INFO >> Loaded 7 imperial fortress level definitions
+2024-03-02_13:21:26 INFO  
+2024-03-02_13:21:26 INFO Loading Imperial Fortress Monster Settings...
+2024-03-02_13:21:26 INFO >> Loaded 161 imperial fortress monster settings
+2024-03-02_13:21:26 INFO  
+2024-03-02_13:21:26 INFO Loading Imperial Fortress Traps...
+2024-03-02_13:21:26 INFO >> Loaded 40 imperial fortress traps
+2024-03-02_13:21:26 INFO  
+2024-03-02_13:21:26 INFO Loading Doppelganger Level...
+2024-03-02_13:21:26 INFO >> Loaded 7 doppelganger level definitions
+2024-03-02_13:21:26 INFO  
+2024-03-02_13:21:26 INFO Loading Doppelganger Monster Settings...
+2024-03-02_13:21:26 INFO >> Loaded 77 doppelganger monster settings
+2024-03-02_13:21:26 INFO  
+2024-03-02_13:21:26 INFO Loading Invasion Data...
+2024-03-02_13:21:26 INFO >> Loaded 15 event invasion definitions
+2024-03-02_13:21:26 INFO  
+2024-03-02_13:21:26 INFO Loading Invasion Group...
+2024-03-02_13:21:26 INFO >> Loaded 81 event invasion group definitions
+2024-03-02_13:21:26 INFO  
+2024-03-02_13:21:26 INFO Loading Crywolf Data...
+2024-03-02_13:21:26 INFO Crywolf Data Loaded...
+2024-03-02_13:21:26 INFO  
+2024-03-02_13:21:26 INFO Loading Castle Deep Settings...
+2024-03-02_13:21:26 INFO Castle Deep Settings Loaded
+2024-03-02_13:21:26 INFO  
+2024-03-02_13:21:26 INFO Loading Cash Shop Category...
+2024-03-02_13:21:26 INFO >> Loaded 4 cash shop category definitions in 16 msec.
+2024-03-02_13:21:26 INFO  
+2024-03-02_13:21:26 INFO Loading Cash Shop Package List...
+2024-03-02_13:21:26 INFO >> Loaded 4 cash shop package definitions in 16 msec.
+2024-03-02_13:21:26 INFO  
+2024-03-02_13:21:26 INFO Loading Cash Shop Product List...
+2024-03-02_13:21:27 INFO >> Loaded 6 cash shop product definitions in 16 msec.
+2024-03-02_13:21:27 INFO  
+2024-03-02_13:21:27 INFO Loading Filter...
+2024-03-02_13:21:27 INFO >> Loaded 0 filter definitions
+2024-03-02_13:21:27 INFO  
+2024-03-02_13:21:27 INFO Loading Notice...
+2024-03-02_13:21:27 INFO >> Loaded 0 notice definitions
+2024-03-02_13:21:27 INFO  
+2024-03-02_13:21:27 INFO Loading Goblin Point...
+2024-03-02_13:21:27 INFO >> Loaded 0 goblin point definitions
+2024-03-02_13:21:27 INFO  
+2024-03-02_13:21:27 INFO Loading Non Pk Time...
+2024-03-02_13:21:27 INFO >> Loaded 0 non pk time definitions
+2024-03-02_13:21:27 INFO  
+2024-03-02_13:21:27 INFO Loading Notifications...
+2024-03-02_13:21:27 INFO >> Loaded 0 notifications definitions
+2024-03-02_13:21:27 INFO  
+2024-03-02_13:21:27 INFO Loading Offset Data...
+2024-03-02_13:21:27 INFO >> Loaded 0 offset data definitions in 16 msec.
+2024-03-02_13:21:27 INFO  
+2024-03-02_13:21:27 INFO Loading Offset FPS...
+2024-03-02_13:21:27 INFO >> Loaded 0 offset fps definitions in 16 msec.
+2024-03-02_13:21:27 INFO  
+2024-03-02_13:21:27 INFO Loading Cheat Scan White List...
+2024-03-02_13:21:27 INFO >> Loaded 0 cheat scan white list definitions in 16 msec.
+2024-03-02_13:21:27 INFO  
+2024-03-02_13:21:27 INFO Loading Offline Attack Setting...
+2024-03-02_13:21:27 ERROR >> Load Offline Attack Setting Succes
+2024-03-02_13:21:27 INFO  
+2024-03-02_13:21:27 INFO Loading Offline Attack World...
+2024-03-02_13:21:27 INFO >> Loaded 54 offline attack world definitions
+2024-03-02_13:21:27 INFO  
+2024-03-02_13:21:27 INFO Loading Offline Attack Zone...
+2024-03-02_13:21:27 INFO >> Loaded 54 offline attack zone definitions
+2024-03-02_13:21:27 INFO  
+2024-03-02_13:21:27 INFO Loading Mix Disabled...
+2024-03-02_13:21:27 INFO >> Loaded 0 mix disabled definitions
+2024-03-02_13:21:27 INFO  
+2024-03-02_13:21:27 INFO Loading Mix SpellStone...
+2024-03-02_13:21:27 INFO >> Loaded 21 mix spell stone definitions
+2024-03-02_13:21:27 INFO  
+2024-03-02_13:21:27 INFO Loading Mix Guardian...
+2024-03-02_13:21:27 INFO >> Loaded 53 mix guardian definitions
+2024-03-02_13:21:27 INFO  
+2024-03-02_13:21:27 INFO Loading Pentagram Type...
+2024-03-02_13:21:27 INFO >> Loaded 24 pentagram type definitions
+2024-03-02_13:21:27 INFO  
+2024-03-02_13:21:27 INFO Loading Pentagram Option...
+2024-03-02_13:21:27 INFO >> Loaded 31 pentagram option definitions
+2024-03-02_13:21:27 INFO  
+2024-03-02_13:21:27 INFO Loading Pentagram Jewel Option...
+2024-03-02_13:21:27 INFO >> Loaded 109 pentagram jewel option definitions in 16 msec.
+2024-03-02_13:21:27 INFO  
+2024-03-02_13:21:27 INFO Loading Pentagram Jewel Remove...
+2024-03-02_13:21:27 INFO >> Loaded 11 pentagram jewel remove definitions
+2024-03-02_13:21:27 INFO  
+2024-03-02_13:21:27 INFO Loading Pentagram Jewel Upgrade Rank...
+2024-03-02_13:21:27 INFO >> Loaded 4 pentagram jewel upgrade rank definitions
+2024-03-02_13:21:27 INFO  
+2024-03-02_13:21:27 INFO Loading Pentagram Jewel Upgrade Level...
+2024-03-02_13:21:27 INFO >> Loaded 11 pentagram jewel upgrade level definitions
+2024-03-02_13:21:27 INFO  
+2024-03-02_13:21:27 INFO Loading Muun...
+2024-03-02_13:21:27 INFO >> Loaded 382 muun definitions
+2024-03-02_13:21:27 INFO  
+2024-03-02_13:21:27 INFO Loading Muun Option...
+2024-03-02_13:21:27 INFO >> Loaded 86 muun option definitions
+2024-03-02_13:21:27 INFO  
+2024-03-02_13:21:27 INFO Loading Muun Energy...
+2024-03-02_13:21:27 INFO >> Loaded 4 muun energy definitions
+2024-03-02_13:21:27 INFO  
+2024-03-02_13:21:27 INFO Loading Muun Exchange...
+2024-03-02_13:21:27 INFO >> Loaded 117 muun exchange definitions
+2024-03-02_13:21:27 INFO  
+2024-03-02_13:21:27 INFO Loading Mini Map...
+2024-03-02_13:21:27 INFO >> Loaded 484 mini map definitions in 16 msec.
+2024-03-02_13:21:27 INFO  
+2024-03-02_13:21:27 INFO Loading Summon Scroll...
+2024-03-02_13:21:28 INFO >> Loaded 10 summon scroll definitions
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Summon Scroll Monster...
+2024-03-02_13:21:28 INFO >> Loaded 40 summon scroll monster definitions
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Mining...
+2024-03-02_13:21:28 INFO >> Loaded 15 mining definitions
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Protector of Acheron Settings...
+2024-03-02_13:21:28 INFO Protector of Acheron Settings Loaded
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Tormented Square Stage...
+2024-03-02_13:21:28 INFO >> Loaded 24 tormented square stage definitions
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Tormented Square Ranking...
+2024-03-02_13:21:28 INFO >> Loaded 1 tormented square ranking definitions
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Evomon...
+2024-03-02_13:21:28 INFO >> Loaded 101 evomon definitions
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Evomon Reward...
+2024-03-02_13:21:28 INFO >> Loaded 8 evomon reward definitions
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Arka War Setting...
+2024-03-02_13:21:28 INFO Arka War Settings Loaded
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Labyrinth of Dimensions Info...
+2024-03-02_13:21:28 INFO >> Loaded 38 labyrinth of dimensions info definitions
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Labyrinth of Dimensions Mission...
+2024-03-02_13:21:28 INFO >> Loaded 11 labyrinth of dimensions mission definitions
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Labyrinth of Dimensions Area...
+2024-03-02_13:21:28 INFO >> Loaded 30 labyrinth of dimensions area definitions
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Labyrinth of Dimensions Area Data...
+2024-03-02_13:21:28 INFO >> Loaded 3000 labyrinth of dimensions area data definitions
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Labyrinth of Dimensions Level...
+2024-03-02_13:21:28 INFO >> Loaded 41 labyrinth of dimensions level definitions
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Labyrinth of Dimensions Monster...
+2024-03-02_13:21:28 INFO >> Loaded 41 labyrinth of dimensions monster definitions
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Labyrinth of Dimensions Reward...
+2024-03-02_13:21:28 INFO >> Loaded 220 labyrinth of dimensions reward definitions
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Event Manager...
+2024-03-02_13:21:28 INFO Loading Shop Template...
+2024-03-02_13:21:28 INFO >> Loaded 64 shop definitions in 63 msec.
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Shop Items...
+2024-03-02_13:21:28 INFO >> Loaded 64 shop items in 15 msec.
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Item Price Ruud...
+2024-03-02_13:21:28 INFO >> Loaded 165 item price ruud definitions
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Moss Merchant Section...
+2024-03-02_13:21:28 INFO >> Loaded 11 moss merchant section definitions
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Dungeon Instances...
+2024-03-02_13:21:28 INFO >> Loaded 1 dungeon instances definitions
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Dungeon Level...
+2024-03-02_13:21:28 INFO >> Loaded 200 dungeon level definitions
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Monster Soul Converter...
+2024-03-02_13:21:28 INFO >> Loaded 5 monster soul converter definitions
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Monster Soul Transformation...
+2024-03-02_13:21:28 INFO >> Loaded 69 monster soul transformation definitions
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Monster Soul Reward...
+2024-03-02_13:21:28 INFO >> Loaded 16 monster soul reward definitions
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Reset System Data...
+2024-03-02_13:21:28 INFO >> Loaded 1 Reset System definitions
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Load Dynamic Experience Data
+2024-03-02_13:21:28 INFO >> Loaded 3 Dynamic Experience definitions
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading guilds...
+2024-03-02_13:21:28 INFO >> Loaded 0 guilds in 5 ms
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Party...
+2024-03-02_13:21:28 INFO >> Loaded 0 party
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Mini Bomb Reward...
+2024-03-02_13:21:28 INFO >> Loaded 4 mini bomb reward definitions
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Mu Roomy Reward...
+2024-03-02_13:21:28 INFO >> Loaded 6 mu roomy reward definitions
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Jewel Bingo Reward...
+2024-03-02_13:21:28 INFO >> Loaded 4 jewel bingo reward definitions
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Numeric Baseball Reward...
+2024-03-02_13:21:28 INFO >> Loaded 3 numeric baseball reward definitions
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Labyrinth of Dimensions Ranking...
+2024-03-02_13:21:28 INFO >> Loaded 0 labyrinth of dimensions ranking definitions
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Labyrinth of Dimensions Schedule...
+2024-03-02_13:21:28 INFO >> Loaded 1 labyrinth of dimensions schedule definitions
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO Loading Dungeon Saved Instances...
+2024-03-02_13:21:28 INFO >> Loaded 0 dungeon saved instances definitions
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO >> Loaded Notice System Succes
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO CONNECTING SERVERLINK
+2024-03-02_13:21:28 INFO CONNECTING AUTHSERVER
+2024-03-02_13:21:28 INFO CONNECTED SERVERLINK
+2024-03-02_13:21:28 INFO CONNECTING CONNECTSERVER
+2024-03-02_13:21:28 INFO  
+2024-03-02_13:21:28 INFO CONNECTED AUTHSERVER
+2024-03-02_13:21:28 INFO GameServer Ready
+2024-03-02_13:21:28 INFO CONNECTED CONNECTSERVER
+2024-03-02_13:21:29 INFO Loading Castle Siege NPC From ServerLink
+2024-03-02_13:21:30 INFO CEventMgr::UpdateSeason -- [4 - Summer - Enabled]
+2024-03-02_13:21:38 INFO Loading Monster Exclusive...
+2024-03-02_13:21:38 INFO >> Loaded 0 monster exclusive definitions
+2024-03-02_13:21:38 INFO  
+2024-03-02_13:21:38 INFO Loading Monster...
+2024-03-02_13:21:39 INFO >> Loaded 11048 monsters
+2024-03-02_13:21:39 INFO  
+2024-03-02_13:21:39 INFO Loading Monster Respawn...
+2024-03-02_13:21:39 INFO >> Loaded 0 monster respawn definitions
+2024-03-02_13:21:39 INFO  
+2024-03-02_13:21:39 INFO Updating Objets 59 - Time: 1 ms
+2024-03-02_13:22:14 INFO Updating Viewport Objets 59 - Time: 1 ms
+2024-03-02_13:25:41 INFO DISCONNECTED SERVERLINK
+2024-03-02_13:25:41 INFO DISCONNECTED AUTHSERVER
+2024-03-02_13:25:41 INFO DISCONNECTED CONNECTSERVER
+2024-03-02_13:25:41 INFO Closing GameServer

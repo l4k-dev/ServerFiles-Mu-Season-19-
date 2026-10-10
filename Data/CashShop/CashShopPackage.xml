@@ -1,0 +1,14 @@
+<CashShopPackage>
+  <Category ID="3">
+
+    <Package ID="100" Position="0" Name="Legendary Set +15" Description="DW / SM / GM" DisPlayItem="0" Flags="0" PriceType="0" StartDate="20100101000000" EndDate="20301231235959" />
+    <Package ID="101" Position="1" Name="Dragon Set +15" Description="DK / BK / BM" DisPlayItem="0" Flags="0" PriceType="0" StartDate="20100101000000" EndDate="20301231235959" />
+    <Package ID="102" Position="2" Name="Guardian Set +15" Description="ELF" DisPlayItem="0" Flags="0" PriceType="0" StartDate="20100101000000" EndDate="20301231235959" />
+    <Package ID="103" Position="3" Name="Dark Soul Set +15" Description="MG" DisPlayItem="0" Flags="0" PriceType="0" StartDate="20100101000000" EndDate="20301231235959" />
+    <Package ID="104" Position="4" Name="Dark Steel Set +15" Description="DL" DisPlayItem="0" Flags="0" PriceType="0" StartDate="20100101000000" EndDate="20301231235959" />
+    <Package ID="105" Position="5" Name="Ancient Set +15" Description="Summoner" DisPlayItem="0" Flags="0" PriceType="0" StartDate="20100101000000" EndDate="20301231235959" />
+    <Package ID="106" Position="6" Name="Red Spirit Set +15" Description="Rage Fighter" DisPlayItem="0" Flags="0" PriceType="0" StartDate="20100101000000" EndDate="20301231235959" />
+    <Package ID="107" Position="7" Name="Adamantine Set +15" Description="Grow Lancer" DisPlayItem="0" Flags="0" PriceType="0" StartDate="20100101000000" EndDate="20301231235959" />
+
+  </Category>
+</CashShopPackage>

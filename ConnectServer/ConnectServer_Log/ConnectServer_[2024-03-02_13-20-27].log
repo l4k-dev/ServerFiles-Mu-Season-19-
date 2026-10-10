@@ -1,0 +1,38 @@
+2024-03-02_13:20:28 INFO ========================================================
+2024-03-02_13:20:28 INFO ========================================================
+2024-03-02_13:20:28 INFO >>>>>>>>>>>>>>>>>>>>> CONNECT SERVER <<<<<<<<<<<<<<<<<<<<<<
+2024-03-02_13:20:28 INFO ========================================================
+2024-03-02_13:20:28 INFO ========================================================
+2024-03-02_13:20:28 INFO Process priority class set to HIGH
+2024-03-02_13:20:28 INFO Starting DB...
+2024-03-02_13:20:28 INFO Reading Server List...
+2024-03-02_13:20:28 INFO Added Server 0 [Regular]    Port: 55501   IP: 192.168.0.189   Display: 1	AccountAllowed: 0	Disabled: 1
+2024-03-02_13:20:28 INFO Added Server 1 [SubServer]    Port: 55502   IP: 192.168.0.189   Display: 1	AccountAllowed: 0	Disabled: 1
+2024-03-02_13:20:28 INFO Added Server 17 [ArkaWar]    Port: 55517   IP: 192.168.0.189   Display: 0	AccountAllowed: 0	Disabled: 1
+2024-03-02_13:20:28 INFO Added Server 18 [Event]    Port: 55518   IP: 192.168.0.189   Display: 0	AccountAllowed: 0	Disabled: 1
+2024-03-02_13:20:28 INFO Added Server 19 [Siege]    Port: 55519   IP: 192.168.0.189   Display: 0	AccountAllowed: 0	Disabled: 1
+2024-03-02_13:20:28 INFO >> Loaded 5 servers
+2024-03-02_13:20:28 INFO  
+2024-03-02_13:20:28 DEBUG Network Thread Starting
+2024-03-02_13:20:28 DEBUG Network Thread Starting
+2024-03-02_13:20:28 INFO  
+2024-03-02_13:20:28 INFO CSServer Ready
+2024-03-02_13:21:03 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2024-03-02_13:21:22 INFO [ SERVER CONNECT ] Connecting Server - ArkaWar / 17
+2024-03-02_13:21:28 INFO [ SERVER CONNECT ] Connecting Server - Event / 18
+2024-03-02_13:21:28 INFO [ SERVER CONNECT ] Connecting Server - Event / 18
+2024-03-02_13:24:07 INFO Reading Server List...
+2024-03-02_13:24:07 INFO Added Server 0 [Regular]    Port: 55501   IP: 192.168.0.189   Display: 1	AccountAllowed: 0	Disabled: 0
+2024-03-02_13:24:07 INFO Added Server 1 [SubServer]    Port: 55502   IP: 192.168.0.189   Display: 1	AccountAllowed: 0	Disabled: 1
+2024-03-02_13:24:07 INFO Added Server 17 [ArkaWar]    Port: 55517   IP: 192.168.0.189   Display: 0	AccountAllowed: 0	Disabled: 0
+2024-03-02_13:24:07 INFO Added Server 18 [Event]    Port: 55518   IP: 192.168.0.189   Display: 0	AccountAllowed: 0	Disabled: 0
+2024-03-02_13:24:07 INFO Added Server 19 [Siege]    Port: 55519   IP: 192.168.0.189   Display: 0	AccountAllowed: 0	Disabled: 1
+2024-03-02_13:24:07 INFO >> Loaded 5 servers
+2024-03-02_13:24:07 INFO  
+2024-03-02_13:25:36 INFO [ SERVER CLOSE ] Closing Server - Event / 18
+2024-03-02_13:25:39 INFO [ SERVER CLOSE ] Closing Server - ArkaWar / 17
+2024-03-02_13:25:41 INFO [ SERVER CLOSE ] Closing Server - Event / 18
+2024-03-02_13:25:44 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2024-03-02_13:25:45 DEBUG Network Thread exits
+2024-03-02_13:25:45 DEBUG Network Thread exits
+2024-03-02_13:25:45 INFO Closing CSServer

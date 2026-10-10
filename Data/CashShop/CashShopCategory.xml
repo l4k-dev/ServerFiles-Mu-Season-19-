@@ -1,0 +1,5 @@
+<CashShopCategory>
+  <Cat ID="1" Name="WCoinC" Parent="200" Main="0" Disable="0" />
+  <Cat ID="2" Name="GoblinPoints" Parent="200" Main="0" Disable="0" />
+  <Cat ID="3" Name="SETS" Parent="200" Main="1" Disable="0" />
+</CashShopCategory>
